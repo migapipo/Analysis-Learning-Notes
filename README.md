@@ -2,3 +2,6 @@
 
 
 This is the note of Power BI
+
+
+
